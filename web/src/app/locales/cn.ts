@@ -1,26 +1,26 @@
 const cn = {
   Err: {
-    429: "请求过于频繁，请稍后再试",
-    500: "抱歉，我们可能负载过重，请稍后再试。",
+    429: "請求過於頻繁，請稍後再試",
+    500: "抱歉，我們可能負載過重，請稍後再試。",
   },
   Title: {
-    home: "首页",
+    home: "首頁",
   },
   Search: {
-    placeholder: "有问必答...",
+    placeholder: "有問必答...",
   },
   Footer: {
-    statement: "这是由大语言模型提供的答案, 请务必核实正确性。",
+    statement: "這是由大語言模型提供的答案, 請務必核實正確性。",
   },
   Relates: {
-    no_related_questions: "没有相关问题。",
-    related: "相关",
+    no_related_questions: "沒有相關問題。",
+    related: "相關",
   },
   Answer: {
     answer: "答案",
   },
   Sources: {
-    sources: "来源",
+    sources: "來源",
   },
 };
 
